@@ -113,3 +113,5 @@ TROUBLESHOOTING
 Both ends must use compatible versions of this application. Messages are
 exchanged using this app's JSON-line protocol, so it is not a general-purpose
 Bluetooth terminal for unrelated chat applications.
+using this project taught us many things.
+
